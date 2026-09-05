@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated": "2026-09-05",
+  "plugins": [
+    {
+      "name": "hello",
+      "latest": "1.0.0",
+      "description": "简单问候插件 - 玩家进入时打招呼",
+      "author": "Verify144",
+      "download": "plugins/hello/hello.tar.gz"
+    },
+    {
+      "name": "chat_logger",
+      "latest": "1.0.0",
+      "description": "聊天记录插件 - 把所有玩家聊天写入 logs/chat.log",
+      "author": "Verify144",
+      "download": "plugins/chat_logger/chat_logger.tar.gz"
+    }
+  ]
+}

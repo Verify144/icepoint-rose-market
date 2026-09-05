@@ -1,0 +1,7 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "author": "Verify144",
+  "description": "简单问候插件",
+  "files": ["hello.lua", "hello.json"]
+}
